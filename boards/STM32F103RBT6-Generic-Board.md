@@ -1,5 +1,5 @@
 ---
-title: "STM32F103C8T6 - Generic Board"
+title: "STM32F103RBT6 - Generic Board"
 ---
 
 # {{ page.title }}
